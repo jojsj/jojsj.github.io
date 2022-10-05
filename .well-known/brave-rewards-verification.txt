@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: jojsj.github.io
-Token: 401c7e31e2ce52e93f04dfaac8d3b267546b76bf20a15e04b76e0e0d68aba9fb
